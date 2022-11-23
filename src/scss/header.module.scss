@@ -1,0 +1,10 @@
+@import "./_variables.scss";
+
+header {
+    background-color: $darkPink;
+    padding: 3rem;
+   .title {
+    text-align: center;
+    color: azure;
+   }
+}
